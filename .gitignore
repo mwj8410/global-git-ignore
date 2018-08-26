@@ -1,0 +1,50 @@
+# Local Dev Notes and configs #
+.local.dev.notes/
+compose/local.yml
+*.local.config.*
+
+# UnUseful Files
+
+# Node #
+npm-debug.log
+
+# Mac #
+.AppleDouble
+.DS_Store
+.LSOverride
+._*
+
+# Windows #
+Desktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+Thumbs.db
+*.stackdump
+
+
+# IDE #
+
+# Cloud IDE #
+.c9revisions
+.c9
+
+# Emacs #
+.emacs.desktop
+.emacs.desktop.lock
+
+# IntelliJ #
+.idea/
+
+# Mono #
+*.pidb
+*.resources
+test-results/
+
+# Net Beans #
+.netbeans/
+nbproject/
+
+# VS Code #
+.vscode/
+
